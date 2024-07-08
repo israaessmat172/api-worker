@@ -1,0 +1,12 @@
+name = "summer-art-86c8"
+main = "src/index.js"
+compatibility_date = "2023-08-23"
+workers_dev = true
+
+
+
+
+[[d1_databases]]
+database_name = "summer-art-86c8-db"
+binding = "DATABASE"
+database_id = "c1552202-62df-4e7f-bf1d-5c94597bfc34"
